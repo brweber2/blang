@@ -1,4 +1,8 @@
 pom.xml
 *jar
+*.iml
+*.ipr
+*.iws
+target
 lib
 classes

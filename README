@@ -1,14 +1,35 @@
 # blang
 
-FIXME: write description
+A simple Lisp implementation.
+
+### Data Types
+
+nil
+boolean (true|false)
+text
+number
+keyword :key
+list () and [] for quoted list
+map
+struct
+
+### The Bottom
+
+def
+fn
+if
+let
+quote
+var
+... more to come
 
 ## Usage
 
-FIXME: write
+TBD
 
 ## Installation
 
-FIXME: write
+Will require only the JVM for now.
 
 ## License
 
