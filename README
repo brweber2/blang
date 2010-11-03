@@ -21,6 +21,10 @@ if
 let
 quote
 var
+native-new
+native-invoke
+native-get
+native-set
 ... more to come
 
 ## Usage
